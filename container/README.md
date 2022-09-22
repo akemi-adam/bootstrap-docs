@@ -35,4 +35,4 @@ Ainda é possível determinar o nível de responsabilidade de um container, da s
 ## Materiais da seção:
 
 - <a href="https://www.w3schools.com/bootstrap5/bootstrap_containers.php">Containers no Bootstrap 5</a>
-- <a href="containers.html">Arquivo da aula</a>
+- <a href="./containers.html">Arquivo da aula</a>

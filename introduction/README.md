@@ -15,4 +15,4 @@ A classe `container` irá ser o envelope do seu template, ocupando uma largura f
 ## Materiais da seção:
 
 - <a href="https://www.w3schools.com/bootstrap5/bootstrap_get_started.php">Começando com Bootstrap 5</a>
-- <a href="introduction.html">Arquivo da aula</a>
+- <a href="./introduction.html">Arquivo da aula</a>

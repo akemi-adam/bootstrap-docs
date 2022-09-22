@@ -5,4 +5,4 @@ Essa seção de tipografia é bem auto explicativa. O Bootstrap utiliza um css p
 ## Materiais da seção:
 
 - <a href="https://www.w3schools.com/bootstrap5/bootstrap_typography.php">Tipografia no Bootstrap 5</a>
-- <a href="typography.html">Arquivo da aula</a>
+- <a href="./typography.html">Arquivo da aula</a>

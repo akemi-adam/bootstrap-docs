@@ -47,4 +47,4 @@ Exemplo 4:
 ## Materiais da seção:
 
 - <a href="https://www.w3schools.com/bootstrap5/bootstrap_grid_basic.php">Grid no Bootstrap</a>
-- <a href="grid.html">Arquivo da aula</a>
+- <a href="./grid.html">Arquivo da aula</a>

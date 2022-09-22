@@ -36,4 +36,4 @@ table-responsive-{nível de responsabilidade}
 ## Materiais da seção:
 
 - <a hred="https://www.w3schools.com/bootstrap5/bootstrap_tables.php">Tabelas no Bootstrap 5</a>
-- <a href="/tables.html">Arquivo da aula</a>
+- <a href="./tables.html">Arquivo da aula</a>
