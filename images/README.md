@@ -33,4 +33,4 @@ Além dessas coisas, existe uma classe chamada `img-fluid` que permite a imagem 
 ## Materiais de estudo
 
 - <a href="https://www.w3schools.com/bootstrap5/bootstrap_images.php">Images no Bootstrap 5</a>
-- <a href="./images.html">Arquivo da aula</a>
+- <a href="./images.html">Arquivo da seção</a>
