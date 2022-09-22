@@ -24,6 +24,8 @@ Segue o sumário com o fluxo de leitura dessa documentação:
 - <a href="/typography/README.md">Tipografia</a>
 - <a href="/color/README.md">Cor</a>
 - <a href="/tables/README.md">Tabelas</a>
+- <a href="/images/README.md">Imagens</a>
+- <a href="/alerts/README.md">Alertas</a>
 
 
 ## Materiais:
