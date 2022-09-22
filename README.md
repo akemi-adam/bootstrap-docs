@@ -26,6 +26,7 @@ Segue o sumário com o fluxo de leitura dessa documentação:
 - <a href="/tables/README.md">Tabelas</a>
 - <a href="/images/README.md">Imagens</a>
 - <a href="/alerts/README.md">Alertas</a>
+- <a href="/buttons/README.md">Botões</a>
 
 
 ## Materiais:
