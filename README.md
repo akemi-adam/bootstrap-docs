@@ -18,15 +18,19 @@ A versão do Bootstrap acima é a 5, mas você pode consultar a documentação o
 
 Segue o sumário com o fluxo de leitura dessa documentação:
 
-- <a href="/introduction/README.md">Introdução</a>
-- <a href="/container/README.md">Container</a>
-- <a href="/grid/README.md">Grid Básico</a>
-- <a href="/typography/README.md">Tipografia</a>
-- <a href="/color/README.md">Cor</a>
-- <a href="/tables/README.md">Tabelas</a>
-- <a href="/images/README.md">Imagens</a>
-- <a href="/alerts/README.md">Alertas</a>
-- <a href="/buttons/README.md">Botões</a>
+- <a href="./introduction/README.md">Introdução</a>
+- <a href="./container/README.md">Container</a>
+- <a href="./grid/README.md">Grid Básico</a>
+- <a href="./typography/README.md">Tipografia</a>
+- <a href="./color/README.md">Cor</a>
+- <a href="./tables/README.md">Tabelas</a>
+- <a href="./images/README.md">Imagens</a>
+- <a href="./alerts/README.md">Alertas</a>
+- <a href="./buttons/README.md">Botões</a>
+- <a href="./cards/README.md">Cards</a>
+- <a href="./dropdown/README.md">Dropdown</a>
+- <a href="./collapse/README.md">Collapse</a>
+- <a href="./nav/README.md">Nav e Navbar</a>
 
 
 ## Materiais:
